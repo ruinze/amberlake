@@ -1,0 +1,9 @@
+.downloadfiles {
+    padding: 50px;
+}
+
+.downloadfiles .col-md-3 {
+    text-align: center;
+    width: 25%;
+    display: inline-block;
+}

@@ -1,0 +1,1539 @@
+/* Header*/
+.site-branding {
+    background: #ffffff;
+}
+.site-header {
+    background-color: #ffffff;
+}
+
+p{
+    font-family: 'Roboto', serif;
+}
+
+.wrap a.custom-logo-link {
+    display: block;
+    margin-bottom: 10px;
+}
+.site-branding-text {
+    display: block;
+}
+
+.navigation-top {
+    text-align: left;
+    border-bottom: none;
+    width: 100%;
+    margin: 0 auto;
+    background: #1f52b3;
+}
+
+.site-title {
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    text-transform: capitalize;
+}
+
+.site-branding {
+    padding: 21px;
+}
+
+.site-branding-text {
+    width: 1024px;
+}
+
+.custom-logo {
+    width: 230px !important;
+    height: auto;
+}
+
+.fa {
+    font-size: 33px;
+    color: #1f52b3;
+}
+
+.site-branding-text .col-md-10 {
+    font-family: 'Roboto';
+    font-weight: 700;
+}
+
+.site-branding-text .col-md-10 span {
+    font-family: 'Roboto';
+    font-weight: 400;
+}
+
+.site-branding-text .col-md-2 {
+    padding-right: 0px;
+    text-align: right;
+}
+
+#top-menu {
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Roboto Slab', serif;
+}
+
+#menu-item-18 {
+    display: none;
+}
+
+#top-menu a {
+    color: #ffffff;
+}
+
+.site-branding-text .col-md-4:first-child {
+    padding-left: 0px;
+}
+
+.site-info .col-md-10 {
+    font-size: 16px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.site-info div {
+    font-size: 16px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+footer {
+    background: #414042;
+}
+
+.site-info {
+    width: 1024px;
+}
+
+footer .fa {
+    color: #ffffff;
+    margin-right: 15px;
+}
+
+
+footer img {
+    vertical-align: top;
+    margin-right: 15px;
+}
+
+#page {
+    overflow: hidden;
+}
+
+body:not(.has-sidebar):not(.page-one-column) .page-header, body.has-sidebar.error404 #primary .page-header, body.page-two-column:not(.archive) #primary .entry-header, body.page-two-column.archive:not(.has-sidebar) #primary .page-header {
+    width: 100%;
+}
+
+.entry-content {
+    width: 100% !important;
+    float: none;
+}
+
+footer {
+    margin-top: 0px !important;
+    border: none !important;
+}
+
+
+
+/*homepage*/
+
+.slider-header {
+    font-size: 64px !important;
+    line-height: 100%;
+    margin-bottom: 20px !important;
+}
+
+.slider-content {
+    font-size: 16px !important;
+    font-family: 'Roboto';
+    margin-bottom: 60px !important;
+}
+
+.slider-button {
+    font-size: 16px !important;
+    padding: 15px 60px !important;
+    border-radius: 25px;
+    background: #1f52b3;
+    font-family: 'Roboto';
+}
+
+.inner-content2 {
+    background-image: url(/wp-content/themes/goodsamalf/assets/images/Home_02.jpg);
+    height: 570px;
+}
+
+.divlimiter {
+    width: 1024px;
+    margin: 0 auto;
+    float: none;
+    padding: 0px;
+    padding-top: 85px;
+}
+
+.inner-content2 .divlimiter .col-md-6:first-child {
+    padding: 0px;
+}
+.sub-header {
+    font-size: 30px;
+    color: #ffffff;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.sub-content {
+    font-family: 'Roboto';
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.inner-content2 .divlimiter .col-md-6:last-child {
+    padding-left: 45px;
+    padding-right: 81px;
+    line-height: 200%;
+}
+
+.lm {
+    margin-top: 50px;
+    background: #ffffff;
+    color: #1f52b3;
+    padding: 5px 50px;
+    border-radius: 25px;
+    font-size: 16px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    margin-left: -10px;
+}
+
+.header2 {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 48px;
+}
+
+.sub-header2 {
+    font-size: 16px;
+    font-family: 'Roboto Slab', serif;
+    margin-left: 0px;
+    margin-bottom: 24px;
+    font-weight: 700;
+}
+
+.inner-content1 .sub-content {
+    font-family: 'Roboto';
+    font-size: 16px;
+    color: #000000;
+    padding-left: 15px;
+    padding-right: 47px;
+}
+
+.inner-content1 .lm {
+    margin-top: 25px;
+    background: #1f52b3;
+    color: #ffffff;
+    padding: 10px 40px;
+}
+
+.inner-content1 .col-md-4 {
+    padding-bottom: 40px;
+}
+
+.services-img {
+    margin-bottom: 33px;
+}
+
+.sm {
+    text-align: right;
+    font-size: 16px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+}
+
+.inner-content1 {
+    padding-bottom: 85px;
+}
+
+.sub-content {
+    line-height: 135%;
+}
+
+.inner-content1 .col-md-4 {
+    border: 1px solid #d7d7d7;
+    margin-left: 22px;
+    width: 319px;
+}
+
+
+.sm {
+    margin-top: 39px;
+    margin-bottom: 85px;
+}
+
+input#search-form-594b68a47fad5 {
+    background: none;
+    border: none;
+}
+
+button.search-submit {
+    background: none;
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+i.fa.fa-search {
+    color: #ffffff;
+    font-size: 20px;
+    text-align: right;
+    float: right;
+}
+
+.navigation-top .col-md-4 {
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+li.tp-revslider-slidesli.active-revslide {
+    background-image: url('/wp-content/uploads/2017/06/AboutUs_02.jpg');
+    background-color: none !important;
+}
+
+ul#crumbs {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.crumbtitle {
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+#crumbs li {
+    list-style: none;
+    font-size: 16px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.dots {
+    text-align: center;
+    font-size: 30px;
+    color: #1f52b3;
+    font-family: -webkit-body;
+    letter-spacing: 5px;
+    vertical-align: top;
+    line-height: 5px;
+}
+
+.page-template-page-about-php .sub-header {
+    font-size: 24px;
+    color: #414042;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.page-template-page-about-php .sub-content {
+    font-family: 'Roboto';
+    font-size: 16px;
+    color: #414042;
+    text-align: center;
+    padding: 0px 51px;
+    line-height: 22px;
+}
+
+.page-template-page-about-php .row.header {
+    font-size: 30px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+    background: #1f52b3;
+    color: #FFF;
+    padding:10px 0px 10px;
+}
+
+.page-template-page-about-php .divlimiter .col-md-6 {
+    margin-bottom: 50px;
+}
+
+.page-template-page-about-php .divlimiter .col-md-4 {
+    margin-bottom: 85px;
+}
+
+.page-template-page-about-php .col-md-6 .sub-content {
+    text-align: left;
+    padding: 0px 70px 0px 20px;
+}
+
+.page-template-page-about-php .divlimiter .col-md-6 .sub-header {
+    text-align: left;
+    padding-left: 20px; 
+    font-size:30px;
+    font-weight:bold;
+}
+
+.page-template-page-about-php .col-md-6 .sub-header {
+    margin-bottom: 10px;
+}
+
+.page-template-page-about-php .col-md-6 .desc {
+    padding-left: 20px;
+    font-size: 16px;
+    font-family: 'Roboto';
+    margin-bottom: 50px;
+}
+
+.social.links {
+    padding-left: 20px;
+    margin-top: 50px;
+}
+
+.social.links .fa {
+    border: 1px solid #1f52b3;
+    padding: 2px;
+    margin-left: 5px;
+}
+
+.social a {
+    text-decoration: none !important;
+    border: none;
+    box-shadow: none;
+}
+
+.social a:hover {
+    text-decoration: none;
+    box-shadow: none !important;
+}
+
+.social i.fa.fa-facebook {
+    padding: 5px 13px;
+    margin-left: 12px;
+}
+
+.social i.fa.fa-twitter {
+    padding: 5px 6px;
+}
+
+.stafflist .row.sub-header {
+    text-align: left;
+    margin-top: 10px;
+}
+
+.stafflist .sub-content {
+    text-align: left;
+    padding: 0px;
+    padding-right: 40px;
+margin-bottom:25px;
+}
+
+.stafflist .row {
+    padding-right: 30px;
+}
+
+.stafflist .social.links {
+    padding-left: 0px;
+}
+
+.social.links img {
+    margin-left: 10px;
+    vertical-align: top;
+    width: 46px;
+}
+
+/*Service list*/
+
+
+.servicelist .sub-header {
+    font-size: 16px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    color: #414042;
+    margin-top: 20px;
+    line-height: 20px;
+    margin-top: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 15px;
+}
+
+
+.servicelist .lm {
+    margin-top: 10px;
+    background: #1f52b3;
+    color: #ffffff;
+    padding: 10px 35px;
+}
+
+.servicelist .sub-content {
+    color: #414042;
+    padding-right: 35px;
+    padding-left: 15px;
+    margin-bottom: 35px;
+height:90px;
+}
+
+.col-md-4.servicelist {
+    padding-bottom: 10px;
+    margin-bottom: 40px;
+    border: 0.5px solid #d7d7d7;
+    width: 321px;
+    margin-right: 20px;
+}
+
+.servicelist .lm {
+    margin-top: 10px;
+    background: #1f52b3;
+    color: #ffffff;
+    padding: 10px 35px;
+    margin-left: 0px;
+}
+
+.sub-content a {
+    box-shadow: none;
+}
+a.dgwt-jg-item.jg-entry.hover-out-top:hover{
+box-shadow:none !Important;
+}
+
+.sub-content a:hover {
+    box-shadow: none;
+}
+.dgwt-jg-caption{
+background: rgba(31,82,179,.6) !important;
+}
+.page-id-109 .entry-content a:hover{
+box-shadow:none !important;
+}
+.page-id-109 .site-content{
+padding:0px;
+}
+.page-id-109 header.entry-header{
+display:none;
+}
+.page-id-109 div.entry-content p:nth-child(1) {
+    display: none;
+}
+
+/*inner post service*/
+
+.single-goodsamservices .entry-footer {
+    display: none;
+}
+
+.single-goodsamservices header h1.entry-title {
+    display: none;
+}
+
+.single-goodsamservices nav.navigation.post-navigation {
+    display: none;
+}
+
+
+.single-goodsamservices .entry-content {
+    margin-top: 60px;
+}
+
+.single-goodsamservices .col-md-7, .single-goodsamservices .col-md-5 {
+    padding: 0px;
+}
+
+.single-goodsamservices .col-md-7 {
+    padding-right: 34px;
+}
+
+.single-goodsamservices .col-md-7 img {
+    width: 100%;
+    height: 422px;
+}
+
+.single-goodsamservices h1.entry-title {
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 27px;
+}
+
+.single-goodsamservices .services-list .sub-header{
+    padding-left: 45px !important;
+}
+.single-goodsamservices .col-md-7 p {
+    padding-bottom: 50px;
+}
+
+.single-goodsamservices .col-md-7 .sub-header1 {
+    margin-left: 0px;
+    font-size: 16px;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 24px;
+}
+
+.frst {
+    font-size: 24px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+}
+
+.sec {
+    font-size: 32px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+}
+
+.trd {
+    font-size: 16px;
+    font-family: 'Roboto';
+}
+
+.price-header {
+    padding: 15px 30px;
+    line-height: 160%;
+    vertical-align: middle;
+    text-align: center;
+    color:#ffffff;
+}
+
+.pricelist .col-md-4:nth-child(2) .price-header {
+    background: #5585e1;
+}
+
+.pricelist .col-md-4:nth-child(3) .price-header {
+    background: #2a67da;
+}
+
+.pricelist .col-md-4:nth-child(4) .price-header {
+    background: #1f52b3;
+}
+
+.price-content {
+    margin-left: 20px;
+    padding-top: 30px;
+}
+
+.price-content li {
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+
+.single-goodsamservices .col-md-7 {
+    margin-bottom: 85px;
+}
+
+.price-content ul {
+    list-style: square url(/wp-content/uploads/2017/06/checked-1.png) !important;
+}
+
+
+.contact-us {
+    background: #1f52b3;
+    color: #ffffff;
+    padding: 25px !important;
+}
+
+.col-md-5 .row:first-child {
+    margin: 0px !important;
+    padding: 0px 20px;
+}
+
+
+.col-md-5 .row h1 {
+    width: 182px;
+    float: left;
+    font-size: 30px;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 20px;
+    margin-top: -5px;
+}
+
+.text1 {
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 7px !important;
+    font-size: 14px;
+    font-family: "Roboto";
+    color: #414042 !important;
+    font-weight: 400;
+}
+
+
+i.fa.fa-envelope {
+    float: right;
+    display: inline-block;
+    color: #ffffff;
+    font-size: 24px;
+}
+
+.sub-content a {
+    color: #414042;
+    font-family: "Roboto Slab", serif;
+    font-weight: 700;
+
+}
+.single-goodsamservices .sub-content a{
+display: block;
+    margin-left: 75px;
+    margin-bottom: 15px;
+    
+}
+
+.page-id-60 .col-md-4.servicelist  .sub-content:nth-child(4) a {
+position:absolute;
+bottom: 20px !important;
+}
+
+.services-list .sub-header {
+    color: #414042;
+    padding-left: 59px !important;
+    padding-bottom: 20px !important;
+}
+
+.services-list {
+    margin-top: 50px;
+    padding-top: 30px;
+    border: 1px solid #414042;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 96px;
+    padding-bottom: 16px;
+}
+
+input.wpcf7-form-control.wpcf7-submit {
+    background: #ffffff;
+    color: #1f52b3;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 400;
+    padding: 15px 60px;
+    border-radius: 25px;
+    margin-top: 25px;
+}
+
+
+
+.page-template-page-services .tp-fullwidth-forcer{
+height:100px !important;
+}
+
+@media screen and (min-width: 48em){
+.page-template-page-services .site-content{
+padding:0px !important;
+}
+.single-goodsamservices .site-content{
+padding:0px !important;
+}
+.page-template-page-about .site-content{
+padding:0px !important;
+}
+}
+.crumbtitle{
+margin-top:50px !important;
+}
+
+
+.page-template-page-services section.first-content {
+    margin-top: 90px;
+}
+
+.page-id-109 .entry-title{
+font-size:26px !important;
+text-align:center;
+}
+.col-md-4.servicelist{
+height:500px;
+}
+
+.home .inner-content1 .col-md-4{
+height:500px;
+}
+
+.col-md-12.stafflist{
+margin-bottom:85px;
+}
+
+/*Contact Us*/
+
+.page-template-page-contactus div#content {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.page-id-60 .sub-content a{
+margin-left:0px !important;
+}
+.page-id-60 section.first-content{
+margin-top:120px;
+}
+.page-id-60 .entry-content{
+margin-bottom:30px;
+}
+@media screen and (min-width:1400px){
+.tp-bgimg.defaultimg{
+background-position:top center !important;
+}
+}
+/* Qa css Corrections */
+.single-goodsamservices div#wpcf7-f78-p75-o1 form div {
+    padding: 0px;
+}
+.single-goodsamservices .col-md-5 .row:first-child{
+padding:0px;
+display:inline-block;
+width:100%;
+}
+.single-goodsamservices .col-md-5 .row h1{
+display:inline-block;
+margin-left:12px !important;
+}
+.contact-us i.fa.fa-envelope{
+display:inline-block;
+width:0%;
+}
+
+
+.single-goodsamservices textarea.wpcf7-form-control.wpcf7-textarea.wpcf7-validates-as-required.text2 {
+    height: 113px;
+}
+.single-goodsamservices .col-md-7{
+width:70%;
+} 
+.single-goodsamservices .col-md-5{
+width:30%;
+}
+
+#page .navigation-top a{
+font-weight:300 ;
+}
+.header2{
+font-weight:bold;
+}
+
+.crumbtitle{
+font-weight:bold !important;
+color:#414042 !important;
+}
+#page .navigation-top a:hover{
+text-decoration:none;
+color:#d8d8d8;
+}
+
+
+
+
+
+/* hide section */
+
+.page-template-page-about-php .col-md-12.divlimiter div:nth-child(8),
+.page-template-page-about-php .col-md-12.divlimiter div:nth-child(10),
+.page-template-page-about-php .col-md-12.divlimiter div:nth-child(11),
+.page-template-page-about-php .col-md-12.divlimiter div:nth-child(13){
+display:none !important;
+}
+/* Responsive */
+
+/* 320px */
+
+@media screen and (max-width:320px){
+    .menu-toggle{
+    font-size:20px;
+    color:#FFF;
+    border:0px solid #FFF;
+    }
+.tp-caption .slider-header{
+    font-size: 17px !important;
+    line-height: 16px !Important;
+    margin-bottom: 10px !important;
+    margin-top: -20px !important;
+}
+.tp-caption .slider-content{
+    line-height: 10px !Important;
+    font-size: 8px !important;
+}
+.tp-caption .slider-button{
+    position: relative;
+    top: -50px;
+    display: block;
+    margin: 0 auto !important;
+}
+#top-menu{
+    background: #1f52b3;
+}
+
+.divlimiter{
+    width:100%;
+    padding: 25px;
+}
+.page-id-8 .divlimiter{
+    padding: 0px;
+}
+.page-id-8 .entry-content{
+margin-top:60px;
+margin-bottom:180px;
+}
+.inner-content1 .col-md-4{
+    margin-left:0px ;
+    width:100% !important;
+    margin-bottom:40px;
+}
+.inner-content2 .divlimiter .col-md-6:last-child{
+    padding:0px 15px 0px 15px;
+}
+.sub-content{
+    text-align:justify;
+    font-size:14px;
+}
+.home .sub-content{
+    font-size:13px;
+}
+.lm{
+   display:block;
+   margin:4px auto !important;
+}
+.sub-header{
+   margin-bottom: 10px;
+   margin-top: 20px;
+}
+.inner-content1{
+   padding-bottom:0px;
+}
+.site-info .col-md-10{
+   margin-bottom: 20px;
+   font-size:11px;
+}
+.site-info{
+   width:100%;
+}
+.site-branding {
+    padding: 30px 15px;
+}
+.page-template-page-services .site-content .wrap{
+   padding:0px;
+   width:100%;
+}
+.page-template-page-services .sub-content a{
+   margin: 0px -30px 0px 0px !important;
+   display:block;
+
+}
+.page-id-109 h1.entry-title{
+   font-size: 20px !important;;
+   text-align: center;
+}
+
+.stafflist .col-md-3 {
+    margin-bottom: 50px !important;
+}
+.stafflist .row{
+padding:0px;
+}
+.page-template-page-about-php .col-md-6 .sub-content {
+    text-align: justify;
+    padding: 0px 10px 0px 15px;
+    font-size:13px;
+}
+.page-template-page-about-php .sub-content{
+padding:0px 1px;
+}
+.navigation-top .col-md-4{
+width:100%;
+}
+i.fa.fa-search{
+text-align: center;
+    display: block;
+    margin-bottom: 20px;
+    margin-top: -20px;
+    float:none;
+}
+.row.services-img img{
+width:100%;
+}
+.single-goodsamservices .col-md-7{
+padding:0px;
+margin-bottom:45px;
+}
+.col-md-5 .row:first-child{
+width: 100%;
+display: inline-block;
+padding:0px;
+}
+.col-md-5 .row h1 {
+    width: 86%;
+    font-size:25px;
+    display:inline-block;
+}
+i.fa.fa-envelope{
+float:left;
+display:inline-block;
+}
+.services-list .sub-content a{
+margin-left: 45px;
+width:100%;
+text-align:left;
+}
+.col-md-4.servicelist{
+width:100%;
+}
+.services-list .sub-header{
+font-size:26px;
+padding:0px;
+}
+.services-list{
+margin-bottom:20px;
+}
+.col-md-4.servicelist .row img {
+    width: 100% !important;
+}
+
+.single-goodsamservices div#rev_slider_3_1{
+height:250px;
+}
+.single-goodamservices .entry-content,.page-template-page-services .entry-content,.page-template-page-about .entry-content{
+   position: relative;
+    top: 150px !important;
+}
+div#rev_slider_2_1{
+height:250px !important;
+margin-top:-40px !important; 
+}
+div#rev_slider_3_1{
+height:250px !important;
+}
+.single-goodsamservices .site-content{
+padding:0px;
+}
+.single-goodsamservices .entry-content{
+margin-top:250px;
+}
+.single-goodsamservices .col-md-7 {
+    width: 100%;
+}
+
+.single-goodsamservices .col-md-5 {
+    width: 100%;
+}
+
+
+
+}
+
+/* 375px */
+
+@media screen and (min-width:360px) and (max-width:375px ){
+    .menu-toggle{
+    font-size:20px;
+    color:#FFF;
+    border:0px solid #FFF;
+    }
+.tp-caption .slider-header{
+    font-size: 17px !important;
+    line-height: 16px !Important;
+    margin-bottom: 10px !important;
+    margin-top: -20px !important;
+}
+.tp-caption .slider-content{
+    line-height: 10px !Important;
+    font-size: 8px !important;
+}
+.tp-caption .slider-button{
+    position: relative;
+    top: -50px;
+    display: block;
+    margin: 0 auto !important;
+}
+#top-menu{
+    background: #1f52b3;
+}
+
+.divlimiter{
+    width:100%;
+    padding: 25px;
+}
+.inner-content1 .col-md-4{
+    margin-left:0px ;
+    width:100% !important;
+    margin-bottom:40px;
+}
+.inner-content2 .divlimiter .col-md-6:last-child{
+    padding:0px 15px 0px 15px;
+}
+.sub-content{
+    text-align:justify;
+    font-size:14px;
+}
+.lm{
+   display:block;
+   margin:4px auto !important;
+}
+.sub-header{
+   margin-bottom: 10px;
+   margin-top: 20px;
+}
+.inner-content1{
+   padding-bottom:0px;
+}
+.site-info .col-md-10{
+   margin-bottom: 20px;
+   font-size:11px;
+}
+.site-info{
+   width:100%;
+}
+.site-branding {
+    padding: 30px 15px;
+}
+.page-template-page-services .site-content .wrap{
+   padding:0px;
+   width:100%;
+}
+.page-template-page-services .sub-content a{
+   margin: 0px -30px 0px 0px !important;
+   display:block;
+
+}
+.page-id-109 h1.entry-title{
+   font-size: 20px !important;;
+   text-align: center;
+}
+
+.stafflist .col-md-3 {
+    margin-bottom: 50px !important;
+}
+.stafflist .row{
+padding:0px;
+}
+.page-template-page-about-php .col-md-6 .sub-content {
+    text-align: justify;
+    padding: 0px 10px 0px 15px;
+    font-size:13px;
+}
+.page-template-page-about-php .sub-content{
+padding:0px 1px;
+}
+.navigation-top .col-md-4{
+width:100%;
+}
+i.fa.fa-search{
+text-align: center;
+    display: block;
+    margin-bottom: 20px;
+    margin-top: -20px;
+    float:none;
+}
+.custom-logo{
+width:290px !important;
+}
+.row.services-img img{
+width:100%;
+}
+.single-goodsamservices .col-md-7{
+padding:0px;
+margin-bottom:45px;
+}
+.col-md-5 .row:first-child{
+width: 100%;
+display: inline-block;
+padding:0px;
+}
+.col-md-5 .row h1 {
+    width: 86%;
+    font-size:25px;
+    display:inline-block;
+}
+i.fa.fa-envelope{
+float:left;
+display:inline-block;
+}
+.services-list .sub-content a{
+margin-left: 45px;
+width:100%;
+text-align:left;
+}
+.col-md-4.servicelist{
+width:100%;
+}
+.services-list .sub-header{
+font-size:26px;
+padding:0px;
+}
+.services-list{
+margin-bottom:20px;
+}
+
+
+.single-goodsamservices div#rev_slider_3_1{
+height:250px;
+}
+.single-goodamservices .entry-content{
+   position: relative;
+    top: 150px;
+}
+div#rev_slider_2_1{
+height:250px !important;
+margin-top:-40px !important; 
+}
+.col-md-4.servicelist .row img {
+    width: 100% !important;
+}
+
+.page-template-page-services .site-content{
+padding:0px !important;
+}
+.single-goodsamservices .site-content{
+padding:0px !important;
+}
+.page-template-page-about .site-content{
+padding:0px !important;
+}
+div#rev_slider_3_1{
+height:250px !important;
+}
+.single-goodamservices .entry-content,.page-template-page-services .entry-content,.page-template-page-about .entry-content{
+   position: relative;
+    top: 150px !important;
+}
+
+.single-goodsamservices .site-content{
+padding:0px;
+}
+.single-goodsamservices .entry-content{
+margin-top:250px;
+}
+.single-goodsamservices .col-md-7 {
+    width: 100%;
+}
+
+.single-goodsamservices .col-md-5 {
+    width: 100%;
+}
+
+
+}
+
+/* 420px */
+
+@media screen and (min-width:400px) and (max-width:475px){
+    .menu-toggle{
+    font-size:20px;
+    color:#FFF;
+    border:0px solid #FFF;
+    }
+.tp-caption .slider-header{
+    font-size: 17px !important;
+    line-height: 16px !Important;
+    margin-bottom: 10px !important;
+    margin-top: -20px !important;
+}
+.tp-caption .slider-content{
+    line-height: 10px !Important;
+    font-size: 8px !important;
+}
+.tp-caption .slider-button{
+    position: relative;
+    top: -50px;
+    display: block;
+    margin: 0 auto !important;
+}
+#top-menu{
+    background: #1f52b3;
+}
+
+.divlimiter{
+    width:100%;
+    padding: 25px;
+}
+.inner-content1 .col-md-4{
+    margin-left:0px ;
+    width:100% !important;
+    margin-bottom:40px;
+}
+.inner-content2 .divlimiter .col-md-6:last-child{
+    padding:0px 15px 0px 15px;
+}
+.sub-content{
+    text-align:justify;
+    font-size:14px;
+}
+.lm{
+   display:block;
+   margin:4px auto !important;
+}
+.sub-header{
+   margin-bottom: 10px;
+   margin-top: 20px;
+}
+.inner-content1{
+   padding-bottom:0px;
+}
+.site-info .col-md-10{
+   margin-bottom: 20px;
+   font-size:11px;
+}
+.site-info{
+   width:100%;
+}
+.site-branding {
+    padding: 30px 15px;
+}
+.page-template-page-services .site-content .wrap{
+   padding:0px;
+   width:100%;
+}
+.page-template-page-services .sub-content a{
+   margin: 0px -30px 0px 0px !important;
+   display:block;
+
+}
+.page-id-109 h1.entry-title{
+   font-size: 20px !important;;
+   text-align: center;
+}
+
+.stafflist .col-md-3 {
+    margin-bottom: 50px !important;
+}
+.stafflist .row{
+padding:0px;
+}
+.page-template-page-about-php .col-md-6 .sub-content {
+    text-align: justify;
+    padding: 0px 10px 0px 15px;
+    font-size:13px;
+}
+.page-template-page-about-php .sub-content{
+padding:0px 1px;
+}
+.navigation-top .col-md-4{
+width:100%;
+}
+i.fa.fa-search{
+text-align: center;
+    display: block;
+    margin-bottom: 20px;
+    margin-top: -20px;
+    float:none;
+}
+.row.services-img img{
+width:100%;
+}
+.single-goodsamservices .col-md-7{
+padding:0px;
+margin-bottom:45px;
+}
+.col-md-5 .row:first-child{
+width: 100%;
+display: inline-block;
+padding:0px;
+}
+.col-md-5 .row h1 {
+    width: 86%;
+    font-size:25px;
+    display:inline-block;
+}
+i.fa.fa-envelope{
+float:left;
+display:inline-block;
+}
+.services-list .sub-content a{
+margin-left: 45px;
+width:100%;
+text-align:left;
+}
+.col-md-4.servicelist{
+width:100%;
+}
+.services-list .sub-header{
+font-size:26px;
+padding:0px;
+}
+.services-list{
+margin-bottom:20px;
+}
+
+
+.single-goodsamservices div#rev_slider_3_1{
+height:250px;
+}
+.single-goodamservices .entry-content{
+   position: relative;
+    top: 150px;
+}
+div#rev_slider_2_1{
+height:250px !important;
+margin-top:-40px !important; 
+}
+.col-md-4.servicelist .row img {
+    width: 100% !important;
+}
+.custom-logo {
+    width: 340px !important;
+    height: auto;
+}
+
+.page-template-page-services .site-content{
+padding:0px !important;
+}
+.single-goodsamservices .site-content{
+padding:0px !important;
+}
+.page-template-page-about .site-content{
+padding:0px !important;
+}
+div#rev_slider_3_1{
+height:250px !important;
+}
+.single-goodamservices .entry-content,.page-template-page-services .entry-content,.page-template-page-about .entry-content{
+   position: relative;
+    top: 150px !important;
+}
+.single-goodsamservices .site-content{
+padding:0px;
+}
+.single-goodsamservices .entry-content{
+margin-top:250px;
+}
+.single-goodsamservices .col-md-7 {
+    width: 100%;
+}
+
+.single-goodsamservices .col-md-5 {
+    width: 100%;
+}
+
+
+
+}
+
+/* 768px */
+
+@media screen and (max-width:0px){
+    .menu-toggle{
+    font-size:20px;
+    color:#FFF;
+    border:0px solid #FFF;
+    }
+.tp-caption .slider-header{
+    font-size: 17px !important;
+    line-height: 16px !Important;
+    margin-bottom: 10px !important;
+    margin-top: -20px !important;
+}
+.tp-caption .slider-content{
+    line-height: 10px !Important;
+    font-size: 8px !important;
+}
+.tp-caption .slider-button{
+    position: relative;
+    top: -50px;
+    display: block;
+    margin: 0 auto !important;
+}
+#top-menu{
+    background: #1f52b3;
+}
+
+.divlimiter{
+    width:100%;
+    padding: 25px;
+}
+.inner-content1 .col-md-4{
+    margin-left:0px ;
+    width:100% !important;
+margin-bottom:40px;
+}
+.inner-content2 .divlimiter .col-md-6:last-child{
+    padding:0px 15px 0px 15px;
+}
+.sub-content{
+    text-align:justify;
+    font-size:14px;
+}
+.lm{
+   display:block;
+   margin:4px auto !important;
+}
+.sub-header{
+   margin-bottom: 10px;
+   margin-top: 20px;
+}
+.inner-content1{
+   padding-bottom:0px;
+}
+.site-info .col-md-10{
+   margin-bottom: 20px;
+   font-size:11px;
+}
+.site-info{
+   width:100%;
+}
+.site-branding {
+    padding: 30px 15px;
+}
+.page-template-page-services .site-content .wrap{
+   padding:0px;
+   width:100%;
+}
+.page-template-page-services .sub-content a{
+   margin: 0px -30px 0px 0px !important;
+   display:block;
+
+}
+.page-id-109 h1.entry-title{
+   font-size: 20px !important;
+   text-align: center;
+}
+
+.stafflist .col-md-3 {
+    margin-bottom: 50px !important;
+}
+.stafflist .row{
+padding:0px;
+}
+.page-template-page-about-php .col-md-6 .sub-content {
+    text-align: justify;
+    padding: 0px 10px 0px 15px;
+    font-size:13px;
+}
+.page-template-page-about-php .sub-content{
+padding:0px 1px;
+}
+.navigation-top .col-md-4{
+width:100%;
+}
+i.fa.fa-search{
+text-align: center;
+    display: block;
+    margin-bottom: 20px;
+    margin-top: -20px;
+    float:none;
+}
+.row.services-img img{
+width:100%;
+}
+
+.col-md-4.servicelist .row img {
+    width: 100% !important;
+}
+.page-template-page-services .site-content{
+padding:0px !important;
+}
+.single-goodsamservices .site-content{
+padding:0px !important;
+}
+.page-template-page-about .site-content{
+padding:0px !important;
+}
+div#rev_slider_3_1{
+height:250px !important;
+}
+.single-goodamservices .entry-content,.page-template-page-services .entry-content,.page-template-page-about .entry-content{
+   position: relative;
+    top: 150px !important;
+}
+}

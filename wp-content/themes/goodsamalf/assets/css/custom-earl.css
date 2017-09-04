@@ -1,0 +1,511 @@
+.infos {
+    background-image: url(/wp-content/themes/goodsamalf/assets/images/ContactUs_03.jpg);
+    padding-left: 45px;
+    margin: 0px;
+    height: 470px;
+    padding-top: 30px;
+    background-size: 100% 100%;
+}
+
+.col-md-8 .container {
+    width: 100%;
+}
+
+.contact-us h1 {
+    width: 75%;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 0px;
+}
+
+.contact-us i.fa.fa-envelope {
+    margin-right: 30px;
+}
+
+#letstalk {
+    display: block;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.contact-us textarea.wpcf7-form-control.wpcf7-textarea.wpcf7-validates-as-required.text2 {
+    height: 113px;
+    border-radius: 10px;
+}
+
+.infos .row {
+    color: #414042 !important;
+}
+
+.divlimiter.contact-body .col-md-6 {
+    width: 495px;
+    height: 450px;
+    padding: 0px;
+}
+
+
+.divlimiter.contact-body .col-md-6:first-child {
+    margin-right: 30px;
+}
+
+.infos .sub-header {
+    margin-bottom: 0px;
+}
+
+.infos .sub-content {
+    font-family: "Roboto Slab", serif;
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+
+.infos .col-md-1 {
+    padding: 0px;
+}
+
+.infos .clearfix {
+    margin-bottom: 0px !important;
+}
+
+.infos .row.sub-content .col-md-1 {
+    margin-bottom: 30px;
+}
+
+.infos .col-md-11 {
+    margin: 0 auto;
+    margin-top: 6px;
+}
+
+.divlimiter.contact-body .col-md-6 {
+    margin-bottom: 90px;
+}
+
+.contact-body .col-md-12.sub-header {
+    color: #414042;
+    margin-bottom: 52px;
+}
+
+.contact-body .col-md-4 .row.sub-content {
+    color: #414042;
+}
+
+.panel-default>.panel-heading {
+    background-color: #1f52b3;
+    color: #ffffff;
+    border: none;
+}
+
+.panel-body {
+    border: none;
+}
+
+.panel-collapse {
+    box-shadow: none !important;
+    overflow: hidden;
+}
+
+.panel-heading a {
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.panel-heading a:hover {
+    text-decoration: none;
+    box-shadow: none;
+    color: #ffffff;
+}
+
+.contact-body i.fa.fa-envelope {
+    color: #1f52b3;
+    float: left;
+}
+
+.contact-body {
+    padding-top: 0px;
+    margin-top: -120px;
+}
+
+.text1 {
+    padding: 0px !important;
+    padding-left: 10px !important;
+}
+
+.panel-default .panel-heading .panel-title a:after {
+    font-family: 'Glyphicons Halflings';
+    content: "\e080";
+    float: right;
+    color: grey;
+}
+
+
+.panel-default .panel-heading .panel-title .collapsed:after {
+    /* symbol for "collapsed" panels */
+    content: "\e080";    /* adjust as needed, taken from bootstrap.css */
+}
+
+
+.panel-default .panel-heading .panel-title a:after {
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";
+    float: right;
+    color: #000000;
+    background: #ffffff;
+    border-radius: 50%;
+    font-size: 10px;
+    padding: 4px;
+}
+
+.contact-us i.fa.fa-envelope {
+    float: right;
+    color: #ffffff;
+}
+
+.contact-us h1 {
+    font-family: "Roboto Slab", serif;
+}
+
+#letstalk {
+    font-family: "Roboto Slab", serif;
+}
+.text1::placeholder {
+    font-family: 'Roboto Slab';
+}
+
+.contact-body .col-md-4 .row.sub-content {
+    font-family: "Roboto";
+}
+
+.panel-body {
+    font-family: "Roboto";
+}
+
+.panel-title a {
+    font-family: "Roboto Slab", serif;
+}
+
+.contact-body .col-md-12.sub-header {
+    padding-left: 0px;
+}
+
+.inner-content1 .col-md-4.servicelist {
+    margin-left: 0px;
+}
+
+.inner-content1 .servicelist .lm {
+    bottom: 25px;
+    position: absolute;
+}
+
+a.more-link {
+    display: none;
+}
+
+a {
+    box-shadow: none !important;
+}
+
+.site-info .col-md-10 {
+    font-weight: 400;
+}
+
+.row.price-content {
+    height: 100%;
+}
+
+/*July 3, 2017 kyxt*/
+
+.pricelist .col-md-3:nth-child(n+3) {
+    width: 165px;
+}
+
+.pricelist .col-md-3 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.pricelist .col-md-3:nth-child(2) {
+    width: 100px;
+}
+
+.row.price-content {
+    margin-left: 0px;
+    margin-right: 5px;
+}
+
+.single-goodsamservices .col-md-5 .sub-content a {
+    margin-left: 43px;
+}
+
+.col-md-5 .row.services-list {
+    padding-right: 30px;
+    padding-top: 20px;
+}
+
+.wrap {
+    padding-left: 0px;
+}
+
+.navigation-top .wrap .col-md-8 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.navigation-top .wrap {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#top-menu a {
+    /*padding-left: 0px;*/
+}
+
+.wrap {
+    max-width: 1024px !important;
+}
+
+.shift .entry-header h1.entry-title{
+    display: none;
+}
+
+.single-shift #content{
+    padding-top: 0px;
+}
+
+.page-id-60 section.first-content {
+    margin-top: 133px;
+}
+
+div#dgwt-jg-1 {
+    margin-top: 85px;
+}
+
+ul#crumbs {
+    margin-top: 20px;
+}
+
+.crumbtitle {
+    margin-top: 77px !important;
+}
+
+.slider-header {
+    font-size: 45px !important;
+    line-height: 1.25 !important;
+    font-weight: 900 !important;
+}
+
+.slider-header span {
+    font-size: 79px !important;
+    line-height: 100% !important;
+}
+
+/*July 10, 2017 kyxt*/
+
+.inner-content2 {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100%;
+}
+.col-md-4.servicelist {
+    background: #ffffff;
+}
+
+.homeservices .header2 {
+    color: #fff;
+}
+
+section.first-content> div> div> p {
+    font-size: 16px;
+    font-family: 'roboto' !important;
+    font-weight: normal;
+}
+
+.sm a {
+    color: #fff;
+}
+
+.sm a {
+    color: #fff !important;
+    text-decoration: none;
+}
+
+.homeservices .servicelist .lm {
+    position: absolute;
+    bottom: 25px;
+}
+
+.home .inner-content1 .col-md-4 {
+    min-height: 300px;
+    width: 300px;
+}
+
+.inner-content1 .col-md-6 {
+   /* float: none;*/
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.home .inner-content1 div:nth-child(4) {       
+    /*margin-left: 19%;*/
+}
+
+.inner-content1 .col-md-12 {
+    text-align: center;
+}
+
+.home .inner-content1 .col-md-4 {
+    min-height: 330px;
+    width: 300px;
+}
+
+.home .inner-content1 .col-md-4 .row:first-child {
+    margin-bottom: 20px;
+}
+
+.home .inner-content1 .col-md-6 .row:first-child {
+    margin-bottom: 20px;
+}
+
+.inner-content1 .col-md-6 {
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    min-height: 330px;
+}
+
+.inner-content1 .row {
+    margin: 0px;
+}
+
+.inner-content1 .col-md-6 .row {
+    margin: 0px;
+}
+
+.inner-content1 .col-md-12 {
+    margin-bottom: 85px;
+}
+
+.home .inner-content1 .col-md-4 {
+    padding: 25px;
+}
+
+.inner-content1 .col-md-6 {
+    border: 1px solid #d7d7d7;
+    padding: 20px;
+}
+
+.home .inner-content1 .col-md-4 {
+    min-height: 380px;
+}
+
+.home .inner-content1 .col-md-4 img {
+    width: 90px;
+    height: 90px;
+}
+
+.home .inner-content1 div {
+    border: none;
+}
+
+.tp-bullet {
+    background: none !important;
+}
+
+.tp-bullet.selected {
+    background: #1f52b3 !important;
+}
+
+.single-goodsamservices .single-featured-image-header img {
+    display: none;
+}
+
+.col-md-12.header2 {
+    margin-bottom: 30px;
+}
+
+
+@media screen and (min-width:320px) and (max-width:375px){
+  .page-id-7 .slide_text2 {
+    top: 75px !important;
+    position: relative;
+    text-align: center !important;
+  }
+
+  .slide_text2 .slider-button {
+    top: -5%;
+  }
+
+  .slide_text2 .slider-header {
+    line-height: 135% !important;
+    font-size: 25px !important;
+  }
+
+}
+
+
+@media screen and (min-width:412px) and (max-width:500px){
+  .page-id-7 .slide_text2 {
+    top: 75px !important;
+    position: relative;
+    text-align: center !important;
+    width: 350px;
+  }
+
+  .slide_text2 .slider-button {
+    top: -5%;
+  }
+
+  .slide_text2 .slider-header {
+    line-height: 135% !important;
+    font-size: 25px !important;
+  }
+
+  .slide_text2 .slider-content {
+    font-size: 11px !important;
+  }
+
+}
+
+@media screen and (min-width:501px) and (max-width:600px){
+  .page-id-7 .slide_text2 {
+    top: 50px !important;
+    position: relative;
+    text-align: center !important;
+    width: 400px;
+  }
+
+  .slide_text2 .slider-button {
+    top: -5%;
+  }
+
+  .slide_text2 .slider-header {
+    line-height: 135% !important;
+    font-size: 25px !important;
+  }
+
+  .slide_text2 .slider-content {
+    font-size: 11px !important;
+  }
+
+}
+
+@media screen and (min-width:601px) and (max-width:732px){
+  .page-id-7 .slide_text2 {
+    top: 50px !important;
+    position: relative;
+    text-align: center !important;
+    width: 145%;
+  }
+
+  .slide_text2 .slider-button {
+    /*top: -5%;*/
+  }
+
+  .slide_text2 .slider-header {
+    line-height: 135% !important;
+    font-size: 25px !important;
+  }
+
+  .slide_text2 .slider-content {
+    font-size: 11px !important;
+  }
+
+}

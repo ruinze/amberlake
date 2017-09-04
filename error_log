@@ -1,0 +1,94 @@
+[21-Jun-2017 11:42:16 UTC] PHP Fatal error:  Call to undefined function get_field() in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/template-parts/page/content-home.php on line 11
+[21-Jun-2017 11:42:48 UTC] PHP Fatal error:  Call to undefined function get_field() in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/template-parts/page/content-home.php on line 11
+[21-Jun-2017 11:44:16 UTC] PHP Fatal error:  Call to undefined function get_field() in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/template-parts/page/content-home.php on line 11
+[21-Jun-2017 15:55:44 UTC] PHP Fatal error:  Call to undefined function get_field() in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/template-parts/page/content-about.php on line 15
+[21-Jun-2017 16:18:25 UTC] PHP Fatal error:  Call to undefined function get_field() in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/template-parts/page/content-about.php on line 15
+[21-Jun-2017 16:18:36 UTC] PHP Fatal error:  Call to undefined function get_field() in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/template-parts/page/content-about.php on line 15
+[21-Jun-2017 16:18:59 UTC] PHP Fatal error:  Call to undefined function get_field() in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/template-parts/page/content-about.php on line 15
+[22-Jun-2017 08:31:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/functions.php on line 19
+[23-Jun-2017 12:24:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/template-parts/post/content.php on line 82
+[27-Jun-2017 08:04:01 UTC] PHP Warning:  implode(): Argument must be an array in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/functions.php on line 7
+[27-Jun-2017 08:04:43 UTC] PHP Warning:  implode(): Argument must be an array in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/functions.php on line 7
+[27-Jun-2017 08:05:09 UTC] PHP Warning:  implode(): Argument must be an array in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/functions.php on line 7
+[27-Jun-2017 08:06:17 UTC] PHP Warning:  implode(): Argument must be an array in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/functions.php on line 7
+[27-Jun-2017 08:06:26 UTC] PHP Warning:  implode(): Argument must be an array in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/functions.php on line 7
+[27-Jun-2017 08:06:26 UTC] PHP Warning:  implode(): Argument must be an array in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/functions.php on line 7
+[27-Jun-2017 08:06:27 UTC] PHP Warning:  implode(): Argument must be an array in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/functions.php on line 7
+[27-Jun-2017 08:06:27 UTC] PHP Warning:  implode(): Argument must be an array in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/functions.php on line 7
+[27-Jun-2017 08:06:51 UTC] PHP Warning:  implode(): Argument must be an array in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/functions.php on line 7
+[27-Jun-2017 08:17:45 UTC] PHP Fatal error:  Call to undefined function is_user_logged_out() in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/functions.php on line 15
+[27-Jun-2017 09:07:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/template-parts/custom-temp/downloadfiles.php on line 8
+[27-Jun-2017 09:50:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/pryinc/dev.goodsamalf.com/wp-content/themes/goodsamalf/template-parts/custom-temp/downloadfiles.php on line 46
+[29-Jun-2017 03:44:12 UTC] PHP Warning:  include(template-parts/custom-temp/servicelist.php): failed to open stream: No such file or directory in /home1/pryinc/public_html/wp-content/themes/goodsamalf/inc/functions-child.php on line 170
+[29-Jun-2017 03:44:12 UTC] PHP Warning:  include(template-parts/custom-temp/servicelist.php): failed to open stream: No such file or directory in /home1/pryinc/public_html/wp-content/themes/goodsamalf/inc/functions-child.php on line 170
+[29-Jun-2017 03:44:12 UTC] PHP Warning:  include(): Failed opening 'template-parts/custom-temp/servicelist.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/pryinc/public_html/wp-content/themes/goodsamalf/inc/functions-child.php on line 170
+[29-Jun-2017 03:53:24 UTC] PHP Fatal error:  Cannot redeclare my_wp_nav_menu_args() (previously declared in /home1/pryinc/public_html/wp-content/themes/goodsamalf/functions.php:5) in /home1/pryinc/public_html/wp-content/themes/goodsamalf/inc/functions-child.php on line 21
+[29-Jun-2017 03:54:04 UTC] PHP Fatal error:  Cannot redeclare register_my_custom_menu_page() (previously declared in /home1/pryinc/public_html/wp-content/themes/goodsamalf/functions.php:9) in /home1/pryinc/public_html/wp-content/themes/goodsamalf/inc/functions-child.php on line 29
+[30-Jun-2017 10:54:11 UTC] PHP Fatal error:  Call to a member function the_post() on null in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/custom-temp/pricelist.php on line 40
+[03-Jul-2017 07:16:36 UTC] PHP Fatal error:  Cannot redeclare record_exp() (previously declared in /home1/pryinc/public_html/wp-content/themes/goodsamalf/inc/functions-child.php:71) in /home1/pryinc/public_html/wp-content/themes/goodsamalf/inc/functions-child.php on line 155
+[03-Jul-2017 07:16:38 UTC] PHP Fatal error:  Cannot redeclare record_exp() (previously declared in /home1/pryinc/public_html/wp-content/themes/goodsamalf/inc/functions-child.php:71) in /home1/pryinc/public_html/wp-content/themes/goodsamalf/inc/functions-child.php on line 155
+[10-Jul-2017 08:19:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/pryinc/public_html/wp-includes/pomo/entry.php on line 53
+[10-Jul-2017 08:23:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/pryinc/public_html/wp-content/plugins/revslider/includes/navigation.class.php on line 77
+[10-Jul-2017 08:25:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/pryinc/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 772
+[10-Jul-2017 08:27:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/pryinc/public_html/wp-content/plugins/revslider/includes/googlefonts.php on line 984
+[10-Jul-2017 08:38:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/custom-temp/homepageinfo.php on line 16
+[10-Jul-2017 08:41:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/custom-temp/homepageinfo.php on line 10
+[10-Jul-2017 08:42:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/custom-temp/homepageinfo.php on line 10
+[10-Jul-2017 08:42:56 UTC] PHP Parse error:  syntax error, unexpected ')' in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/custom-temp/homepageinfo.php on line 17
+[10-Jul-2017 08:43:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/custom-temp/homepageinfo.php on line 17
+[10-Jul-2017 08:56:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/custom-temp/homepageinfo.php on line 29
+[10-Jul-2017 09:09:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/pryinc/public_html/wp-includes/class-wp-hook.php on line 277
+[10-Jul-2017 09:09:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/pryinc/public_html/wp-includes/plugin.php on line 205
+[13-Jul-2017 04:17:17 UTC] PHP Parse error:  syntax error, unexpected ''</pre>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/custom-temp/homepageinfo.php on line 24
+[13-Jul-2017 04:17:32 UTC] PHP Parse error:  syntax error, unexpected ''</pre>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/custom-temp/homepageinfo.php on line 24
+[14-Jul-2017 07:41:07 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/custom-temp/pricelist.php on line 57
+[14-Jul-2017 08:02:25 UTC] PHP Catchable fatal error:  Object of class WP_Query could not be converted to string in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/custom-temp/pricelist.php on line 6
+[14-Jul-2017 08:33:19 UTC] PHP Fatal error:  Call to undefined function get_category_id() in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/custom-temp/pricelist.php on line 8
+[14-Jul-2017 09:36:00 UTC] PHP Catchable fatal error:  Object of class WP_Query could not be converted to string in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/custom-temp/pricelist.php on line 9
+[14-Jul-2017 09:55:53 UTC] PHP Parse error:  syntax error, unexpected '>' in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/post/content.php on line 21
+[20-Jul-2017 15:40:18 UTC] PHP Fatal error:  Call to undefined function wp_query() in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 22
+[20-Jul-2017 15:40:54 UTC] PHP Fatal error:  Call to undefined function wp_query() in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 22
+[20-Jul-2017 16:01:12 UTC] PHP Parse error:  syntax error, unexpected ''  => -1,' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 18
+[21-Jul-2017 07:11:19 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Jul-2017 07:41:38 UTC] PHP Parse error:  syntax error, unexpected 'classless' (T_STRING), expecting ',' or ';' in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 47
+[25-Jul-2017 07:43:07 UTC] PHP Parse error:  syntax error, unexpected 'thisisit' (T_STRING), expecting ',' or ';' in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 47
+[25-Jul-2017 07:44:19 UTC] PHP Parse error:  syntax error, unexpected 'thisisit' (T_STRING), expecting ',' or ';' in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 47
+[25-Jul-2017 07:49:47 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 70
+[25-Jul-2017 07:49:54 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 70
+[25-Jul-2017 07:50:05 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 70
+[25-Jul-2017 07:51:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 70
+[25-Jul-2017 07:52:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 70
+[25-Jul-2017 08:22:53 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 57
+[25-Jul-2017 08:23:01 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 57
+[25-Jul-2017 08:23:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 68
+[25-Jul-2017 08:23:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 68
+[25-Jul-2017 08:26:41 UTC] PHP Fatal error:  Cannot use object of type WP_Post as array in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 69
+[25-Jul-2017 08:26:44 UTC] PHP Fatal error:  Cannot use object of type WP_Post as array in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 69
+[25-Jul-2017 10:57:08 UTC] PHP Parse error:  syntax error, unexpected '481' (T_LNUMBER) in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 79
+[25-Jul-2017 10:57:26 UTC] PHP Parse error:  syntax error, unexpected '481' (T_LNUMBER) in /home1/pryinc/public_html/wp-content/themes/goodsamalf/template-parts/page/content-gallery.php on line 79
+[31-Jul-2017 14:04:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/pryinc/amberlakeassistedliving/wp-content/themes/goodsamalf/template-parts/custom-temp/servicelist.php on line 34
+[31-Jul-2017 14:04:38 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/pryinc/amberlakeassistedliving/wp-content/themes/goodsamalf/template-parts/custom-temp/servicelist.php on line 34
+[03-Aug-2017 06:11:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/pryinc/amberlakeassistedliving/wp-content/themes/goodsamalf/functions.php:128) in /home1/pryinc/amberlakeassistedliving/wp-includes/pluggable.php on line 1210
+[03-Aug-2017 06:52:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/pryinc/amberlakeassistedliving/wp-content/themes/goodsamalf/functions.php:128) in /home1/pryinc/amberlakeassistedliving/wp-includes/pluggable.php on line 1210
+[03-Aug-2017 06:53:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/pryinc/amberlakeassistedliving/wp-content/themes/goodsamalf/functions.php:128) in /home1/pryinc/amberlakeassistedliving/wp-includes/pluggable.php on line 1210
+[03-Aug-2017 06:54:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/pryinc/amberlakeassistedliving/wp-content/themes/goodsamalf/functions.php:128) in /home1/pryinc/amberlakeassistedliving/wp-includes/pluggable.php on line 1210
+[03-Aug-2017 06:55:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/pryinc/amberlakeassistedliving/wp-content/themes/goodsamalf/functions.php:125) in /home1/pryinc/amberlakeassistedliving/wp-includes/pluggable.php on line 1210
+[03-Aug-2017 08:58:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/pryinc/amberlakeassistedliving/wp-content/themes/goodsamalf/template-parts/custom-temp/gallerypics.php on line 178
+[30-Aug-2017 19:59:46 UTC] PHP Warning:  Unknown: open(/tmp/sess_a8d8a237faefcba458507468503eb894, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[30-Aug-2017 19:59:46 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[30-Aug-2017 19:59:48 UTC] PHP Warning:  Unknown: open(/tmp/sess_a8d8a237faefcba458507468503eb894, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[30-Aug-2017 19:59:48 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[30-Aug-2017 19:59:49 UTC] PHP Warning:  Unknown: open(/tmp/sess_a8d8a237faefcba458507468503eb894, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[30-Aug-2017 19:59:49 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[30-Aug-2017 19:59:50 UTC] PHP Warning:  Unknown: open(/tmp/sess_a8d8a237faefcba458507468503eb894, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[30-Aug-2017 19:59:50 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[30-Aug-2017 19:59:51 UTC] PHP Warning:  Unknown: open(/tmp/sess_a8d8a237faefcba458507468503eb894, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[30-Aug-2017 19:59:51 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[30-Aug-2017 19:59:52 UTC] PHP Warning:  Unknown: open(/tmp/sess_a8d8a237faefcba458507468503eb894, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[30-Aug-2017 19:59:52 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[30-Aug-2017 19:59:54 UTC] PHP Warning:  Unknown: open(/tmp/sess_a8d8a237faefcba458507468503eb894, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[30-Aug-2017 19:59:54 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[30-Aug-2017 19:59:55 UTC] PHP Warning:  Unknown: open(/tmp/sess_a8d8a237faefcba458507468503eb894, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[30-Aug-2017 19:59:55 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[30-Aug-2017 19:59:56 UTC] PHP Warning:  Unknown: open(/tmp/sess_a8d8a237faefcba458507468503eb894, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[30-Aug-2017 19:59:56 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
